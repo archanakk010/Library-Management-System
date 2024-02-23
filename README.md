@@ -29,7 +29,7 @@ ReturnStatus: Tracks books returned by customers.
 
 Data is inserted into each table to populate them with initial information. This includes branch details, employee information, book details, customer details, and records of issued and returned books.
 
-### Queries:
+### SQL Queries:
 
 Various SQL queries are provided to perform operations on the database.
 
