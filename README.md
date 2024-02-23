@@ -1,9 +1,12 @@
 # Library-Management-System
-This project is a Library Management System designed using SQL for database management. Let's break down the steps and explain each part.
-Database Creation: The project starts by creating a database named library.
-Tables Creation: Six tables are created
-Branch: Stores information about library branches.
-Employee: Contains details of library staff.
+
+### This project is a Library Management System designed using SQL for database management. Let's break down the steps and explain each part.
+
+## Database Creation: The project starts by creating a database named library.
+
+## Tables Creation: Six tables are created
+ Branch: Stores information about library branches.
+-- Employee: Contains details of library staff.
 Books: Stores information about the books available in the library.
 Customer: Contains details of library customers.
 IssueStatus: Tracks books issued to customers.
